@@ -14,12 +14,13 @@ The steps are as follows:
 9. Use stacking.py to ensemble learning of stack . Selected_models,Models_config,trained_models put the same CNNs.
 10. Using voteweightstack.py  for Majority voting and unweighted averaging for ensemble learning. Singlemodelnames load CNNs. Ensemle_type load ensemble strategies.
 11. Other parameter settings:
-seed=1337
-epochs = 50
-learning rate =0.0001
-optimizer: Adam
-average='macro' 
+seed=1337,
+epochs = 50,
+learning rate =0.0001,
+optimizer: Adam,
+average='macro' ,
 GPU
 
 Tip: The final classification performance is better if you choose to train separately than if you train together.
 I have provided some sample data sets and trained models in Baidu web disk, which can be used directly.
+https://pan.baidu.com/s/1242gHhx579NI-LdEM387XA?pwd=1234
