@@ -21,6 +21,6 @@ optimizer: Adam,
 average='macro' ,
 GPU
 
-Tip: The final classification performance is better if you choose to train separately than if you train together.
+
 I have provided some sample data sets and trained models in Baidu web disk, which can be used directly.
 https://pan.baidu.com/s/1242gHhx579NI-LdEM387XA?pwd=1234
