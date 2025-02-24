@@ -20,7 +20,3 @@ learning rate =0.0001,
 optimizer: Adam,
 average='macro' ,
 GPU
-
-
-I have provided some sample data sets and trained models in Baidu web disk, which can be used directly.
-https://pan.baidu.com/s/1242gHhx579NI-LdEM387XA?pwd=1234
